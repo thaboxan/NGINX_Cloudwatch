@@ -103,6 +103,7 @@ Type `yes` when prompted.
 
 ---
 
+
 ## **Outputs**
 
 * **`app_url`**: Public URL for the nginx app.
@@ -115,3 +116,8 @@ Type `yes` when prompted.
 
 * Metrics in CloudWatch may take 1–2 minutes to update.
 * Adjust `var.app_name` in `terraform.tfvars` or directly in the variable block to deploy under a different name.
+
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/fc92ea50-2ca4-4a48-91b7-45703d9a8e06" />
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/d7434472-d5bf-488b-873d-fa8d41f093a0" />
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/100e947d-d8af-4008-9242-71300ed8afdc" />
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/075d3d06-cdf2-4ea9-854b-2a00fd4adc2a" />
